@@ -37,3 +37,9 @@ p {
 .footer-small {
     padding-bottom: 3em;
 }
+.fa:hover {
+    color: #B3B3B3;
+}
+.fa {
+    -webkit-transition: all .3s linear;
+}
