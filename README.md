@@ -1,6 +1,5 @@
 <p align="center">
-    <img src="https://github.com/bradleybernard/bradleybernard.github.io/raw/master/assets/images/icon.png" style="width: 32px;height: 32px;"> 
-    <h1 style="display: inline; border: none; font-size: 40px;">Bradley Bernard</h1>
+    Bradley Bernard
 </p>
 
 ## About
