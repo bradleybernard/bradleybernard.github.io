@@ -1,5 +1,5 @@
 <p align="center">
-    Bradley Bernard
+    ### Bradley Bernard
 </p>
 
 ## About
