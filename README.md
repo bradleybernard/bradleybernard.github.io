@@ -1,5 +1,5 @@
 <p align="center">
-    ### Bradley Bernard
+    <h1>Bradley Bernard</h1>
 </p>
 
 ## About
