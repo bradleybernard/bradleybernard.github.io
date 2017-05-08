@@ -2,10 +2,6 @@
     <b>Bradley Bernard</b>
 </p>
 
-<center>
-    <h1>Bradley Bernard</h1>
-</center>
-
 ## About
 A simple one pager describing who I am, what I like to do, and what I'm interested in. A single index.html page that is hosted through [GitHub pages](https://pages.github.com/) with a custom domain that goes through [CloudFlare](https://www.cloudflare.com/).
 
