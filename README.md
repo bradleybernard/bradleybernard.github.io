@@ -1,4 +1,7 @@
-<p align="center"><img src="https://github.com/bradleybernard/bradleybernard.github.io/raw/master/assets/images/icon.png"> Bradley Bernard</p>
+<p align="center">
+    <img src="https://github.com/bradleybernard/bradleybernard.github.io/raw/master/assets/images/icon.png" style="width: 32px;height: 32px;"> 
+    <h1 style="display: inline; border: none; font-size: 40px;">Bradley Bernard</h1>
+</p>
 
 ## About
 A simple one pager describing who I am, what I like to do, and what I'm interested in. A single index.html page that is hosted through [GitHub pages](https://pages.github.com/) with a custom domain that goes through [CloudFlare](https://www.cloudflare.com/).
