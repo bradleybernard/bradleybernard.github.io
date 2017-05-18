@@ -66,7 +66,7 @@ span.gha-time {
   position: absolute;
   top: 1px;
   left: 1px;
-  width: calc(100% - 20px);
+  width: calc(100% - 2px);
   padding: 10px;
   height: 67px;
   border-bottom: 1px solid #ddd;
@@ -82,12 +82,12 @@ span.gha-time {
 
 .gha-footer {
   position: absolute;
-  bottom: -1px;
+  bottom: 0px;
   left: 1px;
   padding: 5px;
   border-top: 1px solid #ddd;
-  height: 16px;
-  width: calc(100% - 15px);
+  // height: 16px;
+  width: calc(100% - 2px);
   background: #ffffff; /* Old browsers */
   background: -moz-linear-gradient(top,  #ffffff 0%, #f4f4f4 100%); /* FF3.6+ */
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#f4f4f4)); /* Chrome,Safari4+ */
