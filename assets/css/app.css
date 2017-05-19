@@ -1,6 +1,25 @@
 html {
   background-color: #f5f5f5;
 }
+.no-pad {
+    padding: 0;
+}
+.img-figure {
+    margin-top: -25px;
+    margin-bottom: 10px;
+}
+.profile-pic {
+    -webkit-transition: all .1s linear;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+.profile-pic:hover {
+    border-radius: 0;
+}
+.img-center {
+    margin-left: auto;
+    margin-right: auto;
+}
 p.readable a {
     color: #3498db;
     border-bottom: 1px dotted #3498db;
